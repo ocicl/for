@@ -1,0 +1,9 @@
+* for
+
+An extensible iteration macro library.
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/Shinmera/for.git |
+| commit  | ea4e5aa                                 |
+| systems | for                                     |
+|---------+-----------------------------------------|
