@@ -4,6 +4,6 @@ An extensible iteration macro library.
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/Shinmera/for.git |
-| commit  | bb68012                                 |
+| commit  | fe7dd6f                                 |
 | systems | for                                     |
 |---------+-----------------------------------------|
