@@ -6,4 +6,4 @@ An extensible iteration macro library.
 | source  | git:https://codeberg.org/shinmera/for.git |
 | commit  | cbb82c4                                 |
 | systems | for                                     |
-|---------+-----------------------------------------|
+|---------+-----------------------------------------| 
